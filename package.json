@@ -1,0 +1,29 @@
+{
+  "name": "solar-system-3d-8min",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Solar System 3D: How Far Is Far? (1920x1080, 30 fps, 14640 frames = 8:08)",
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "subtitles": "node scripts/make-subtitles.mjs",
+    "voice": "python3 scripts/make-voice.py",
+    "music": "bash scripts/make-music.sh",
+    "render": "remotion render src/index.ts SolarSystem out/SolarSystem-3D-1080p.mp4 --codec=h264 --crf=23 --audio-bitrate=192k --image-format=jpeg --jpeg-quality=80 --concurrency=2 --gl=angle --overwrite"
+  },
+  "dependencies": {
+    "@react-three/fiber": "8.17.10",
+    "@remotion/cli": "4.0.138",
+    "@remotion/google-fonts": "4.0.138",
+    "@remotion/three": "4.0.138",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.138",
+    "three": "0.160.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/three": "0.160.0",
+    "typescript": "5.6.3"
+  }
+}

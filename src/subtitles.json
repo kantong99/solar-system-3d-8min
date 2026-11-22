@@ -1,0 +1,614 @@
+[
+  {
+    "scene": "S01",
+    "start": 0,
+    "end": 259,
+    "lines": [
+      "Welcome to the solar system. Grab a seat.",
+      "This is a story about distance, and your"
+    ]
+  },
+  {
+    "scene": "S01",
+    "start": 259,
+    "end": 506,
+    "lines": [
+      "bicycle is not ready for it. Our solar",
+      "system has one star, eight planets, and"
+    ]
+  },
+  {
+    "scene": "S01",
+    "start": 506,
+    "end": 753,
+    "lines": [
+      "more empty space than you can imagine.",
+      "Most of it is nothing at all. Still, we"
+    ]
+  },
+  {
+    "scene": "S01",
+    "start": 753,
+    "end": 1009,
+    "lines": [
+      "will need a ruler, a calculator, and a",
+      "very patient imagination. So let's measure"
+    ]
+  },
+  {
+    "scene": "S01",
+    "start": 1009,
+    "end": 1050,
+    "lines": [
+      "it, properly."
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 1050,
+    "end": 1250,
+    "lines": [
+      "Let's start with the Sun. It is the heart",
+      "of everything here, and it is much bigger"
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 1250,
+    "end": 1450,
+    "lines": [
+      "than it looks. Its diameter is about one",
+      "million, three hundred ninety-one thousand"
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 1450,
+    "end": 1640,
+    "lines": [
+      "kilometers. That is roughly one hundred",
+      "nine Earths, lined up side by side. But"
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 1640,
+    "end": 1837,
+    "lines": [
+      "lining them up is the boring way. Fill the",
+      "Sun with Earths, like a giant suitcase,"
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 1837,
+    "end": 2025,
+    "lines": [
+      "and you can fit about one point three",
+      "million of them inside. Think about that"
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 2025,
+    "end": 2222,
+    "lines": [
+      "for a second. Every planet you know could",
+      "be packed inside it, with room to spare."
+    ]
+  },
+  {
+    "scene": "S02",
+    "start": 2222,
+    "end": 2400,
+    "lines": [
+      "Earth is not the boss here. Earth is more",
+      "like a very confident passenger."
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 2400,
+    "end": 2629,
+    "lines": [
+      "Now, the Moon. It sits about three hundred",
+      "eighty-four thousand, four hundred"
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 2629,
+    "end": 2858,
+    "lines": [
+      "kilometers away. That is roughly thirty",
+      "Earths lined up edge to edge. Imagine"
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 2858,
+    "end": 3110,
+    "lines": [
+      "riding a bicycle there, at a steady twenty",
+      "kilometers per hour. No breaks. No snacks."
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 3110,
+    "end": 3327,
+    "lines": [
+      "No shortcuts, and no map app saying",
+      "recalculating. You would arrive after"
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 3327,
+    "end": 3568,
+    "lines": [
+      "about two years and two months. The Moon",
+      "is patient. It will wait. Your legs will"
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 3568,
+    "end": 3797,
+    "lines": [
+      "not. Light, on the other hand, makes the",
+      "same trip in about one and a quarter"
+    ]
+  },
+  {
+    "scene": "S03",
+    "start": 3797,
+    "end": 3900,
+    "lines": [
+      "seconds. Light is just showing off."
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 3900,
+    "end": 4078,
+    "lines": [
+      "Now the real challenge: the Sun. It is",
+      "about one hundred forty-nine point six"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 4078,
+    "end": 4268,
+    "lines": [
+      "million kilometers away. Astronomers call",
+      "that distance one astronomical unit, and"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 4268,
+    "end": 4449,
+    "lines": [
+      "it is the yardstick for the whole solar",
+      "system. On the same bicycle, at twenty"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 4449,
+    "end": 4637,
+    "lines": [
+      "kilometers per hour, you would need about",
+      "eight hundred fifty-three years. Pack a"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 4637,
+    "end": 4829,
+    "lines": [
+      "lunch for about thirty generations of your",
+      "family, and maybe write a letter for the"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 4829,
+    "end": 5023,
+    "lines": [
+      "great-great-great-great grandchildren. Now",
+      "take a jet at nine hundred kilometers per"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 5023,
+    "end": 5211,
+    "lines": [
+      "hour. You would arrive in about nineteen",
+      "years. Still a long wait at the airport,"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 5211,
+    "end": 5382,
+    "lines": [
+      "even with the good coffee. And light?",
+      "Light takes eight minutes and twenty"
+    ]
+  },
+  {
+    "scene": "S04",
+    "start": 5382,
+    "end": 5400,
+    "lines": [
+      "seconds."
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 5400,
+    "end": 5634,
+    "lines": [
+      "Let's zoom out and place the planets.",
+      "Mercury is closest to the Sun, then Venus,"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 5634,
+    "end": 5865,
+    "lines": [
+      "Earth, and Mars. These four are small,",
+      "rocky, and a little bit dramatic. Beyond"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 5865,
+    "end": 6085,
+    "lines": [
+      "Mars comes the giant zone: Jupiter,",
+      "Saturn, Uranus, and Neptune. In this 3D"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 6085,
+    "end": 6319,
+    "lines": [
+      "model, the distances are stretched, so you",
+      "can actually see the orbits. The real"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 6319,
+    "end": 6556,
+    "lines": [
+      "numbers are much larger, and the labels",
+      "tell the truth. Neptune sits about thirty"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 6556,
+    "end": 6793,
+    "lines": [
+      "astronomical units from the Sun. That is",
+      "thirty times the Earth-Sun distance. And"
+    ]
+  },
+  {
+    "scene": "S05",
+    "start": 6793,
+    "end": 6900,
+    "lines": [
+      "that is still only the neighborhood."
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 6900,
+    "end": 7138,
+    "lines": [
+      "Now something you probably never noticed.",
+      "Right now, while you sit still, Earth is"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 7138,
+    "end": 7379,
+    "lines": [
+      "moving around the Sun at about one hundred",
+      "seven thousand kilometers per hour. That"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 7379,
+    "end": 7626,
+    "lines": [
+      "is faster than a bullet. You did not buy a",
+      "ticket, and you cannot get off. Welcome to"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 7626,
+    "end": 7853,
+    "lines": [
+      "the orbit. Earth also spins, so you are",
+      "turning too, at about one thousand six"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 7853,
+    "end": 8059,
+    "lines": [
+      "hundred kilometers per hour at the",
+      "equator. Your bicycle, meanwhile, is"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 8059,
+    "end": 8277,
+    "lines": [
+      "standing in the garage, making zero",
+      "progress. Nobody complains, though. The"
+    ]
+  },
+  {
+    "scene": "S06",
+    "start": 8277,
+    "end": 8400,
+    "lines": [
+      "ride is smooth, and the view is excellent."
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 8400,
+    "end": 8668,
+    "lines": [
+      "Next, light. It travels about three",
+      "hundred thousand kilometers every second."
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 8668,
+    "end": 8950,
+    "lines": [
+      "That is fast enough to circle the Earth",
+      "more than seven times in one second. From"
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 8950,
+    "end": 9235,
+    "lines": [
+      "the Sun to Earth, it takes just over eight",
+      "minutes. From the Sun to Jupiter, about"
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 9235,
+    "end": 9510,
+    "lines": [
+      "forty-three minutes. To Neptune, about",
+      "four hours. So when you look at the Sun,"
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 9510,
+    "end": 9778,
+    "lines": [
+      "you are seeing it as it was eight minutes",
+      "ago. Think about that the next time"
+    ]
+  },
+  {
+    "scene": "S07",
+    "start": 9778,
+    "end": 9900,
+    "lines": [
+      "someone complains about slow Wi-Fi."
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 9900,
+    "end": 10130,
+    "lines": [
+      "Now let's compare sizes, and this time",
+      "everything is to scale. Mercury and Mars"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 10130,
+    "end": 10348,
+    "lines": [
+      "are small. Earth is the solid middle",
+      "child. Venus is almost Earth's twin in"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 10348,
+    "end": 10587,
+    "lines": [
+      "size, but it is a hot, cloudy oven. Then",
+      "Jupiter walks into the room and takes the"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 10587,
+    "end": 10814,
+    "lines": [
+      "whole space. Jupiter is about eleven times",
+      "wider than Earth, and more than one"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 10814,
+    "end": 11035,
+    "lines": [
+      "thousand Earths could fit inside it.",
+      "Saturn is nearly as big, and its famous"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 11035,
+    "end": 11265,
+    "lines": [
+      "rings are mostly made of ice and rock,",
+      "some pieces as small as a grain of sand."
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 11265,
+    "end": 11507,
+    "lines": [
+      "Uranus and Neptune are ice giants, cold,",
+      "blue, and very quiet. Nobody asked them to"
+    ]
+  },
+  {
+    "scene": "S08",
+    "start": 11507,
+    "end": 11550,
+    "lines": [
+      "be so dramatic."
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 11550,
+    "end": 11815,
+    "lines": [
+      "Let's test a real spacecraft. Voyager 1",
+      "was launched in 1977, and it moves at"
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 11815,
+    "end": 12077,
+    "lines": [
+      "about seventeen kilometers per second.",
+      "That is very fast. Yet at that speed,"
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 12077,
+    "end": 12356,
+    "lines": [
+      "flying straight toward the Sun, it would",
+      "still need about one hundred two days to"
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 12356,
+    "end": 12638,
+    "lines": [
+      "cover the distance. Three months, give or",
+      "take. For Voyager, that is a short trip."
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 12638,
+    "end": 12910,
+    "lines": [
+      "For a bicycle, that is a family tradition.",
+      "And Voyager does not stop for snacks"
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 12910,
+    "end": 13182,
+    "lines": [
+      "either. It just keeps going, quietly,",
+      "sending messages back to us from very far"
+    ]
+  },
+  {
+    "scene": "S09",
+    "start": 13182,
+    "end": 13200,
+    "lines": [
+      "away."
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 13200,
+    "end": 13474,
+    "lines": [
+      "So, is the solar system big or small?",
+      "Both. The Sun is enormous, the planets are"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 13474,
+    "end": 13755,
+    "lines": [
+      "tiny specks, and the distances turn your",
+      "commute into a very short walk. But Earth"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 13755,
+    "end": 14043,
+    "lines": [
+      "is special. It is the only planet we know",
+      "of with life, and it is ours. So next time"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 14043,
+    "end": 14317,
+    "lines": [
+      "you ride to work, be proud. You are not",
+      "crossing the solar system. You are doing"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 14317,
+    "end": 14602,
+    "lines": [
+      "something much more useful. Your bike is a",
+      "good bike. Thanks for watching, and keep"
+    ]
+  },
+  {
+    "scene": "S10",
+    "start": 14602,
+    "end": 14640,
+    "lines": [
+      "looking up."
+    ]
+  }
+]

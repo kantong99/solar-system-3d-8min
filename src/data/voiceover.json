@@ -1,0 +1,45 @@
+{
+  "note": "Naskah narasi per scene (8:08). from/dur dalam frame (30 fps). Dipakai oleh scripts/make-voice.py dan scripts/make-subtitles.mjs.",
+  "scenes": [
+    {
+      "id": "S01", "from": 0, "dur": 1050,
+      "text": "Welcome to the solar system. Grab a seat. This is a story about distance, and your bicycle is not ready for it. Our solar system has one star, eight planets, and more empty space than you can imagine. Most of it is nothing at all. Still, we will need a ruler, a calculator, and a very patient imagination. So let's measure it, properly."
+    },
+    {
+      "id": "S02", "from": 1050, "dur": 1350,
+      "text": "Let's start with the Sun. It is the heart of everything here, and it is much bigger than it looks. Its diameter is about one million, three hundred ninety-one thousand kilometers. That is roughly one hundred nine Earths, lined up side by side. But lining them up is the boring way. Fill the Sun with Earths, like a giant suitcase, and you can fit about one point three million of them inside. Think about that for a second. Every planet you know could be packed inside it, with room to spare. Earth is not the boss here. Earth is more like a very confident passenger."
+    },
+    {
+      "id": "S03", "from": 2400, "dur": 1500,
+      "text": "Now, the Moon. It sits about three hundred eighty-four thousand, four hundred kilometers away. That is roughly thirty Earths lined up edge to edge. Imagine riding a bicycle there, at a steady twenty kilometers per hour. No breaks. No snacks. No shortcuts, and no map app saying recalculating. You would arrive after about two years and two months. The Moon is patient. It will wait. Your legs will not. Light, on the other hand, makes the same trip in about one and a quarter seconds. Light is just showing off."
+    },
+    {
+      "id": "S04", "from": 3900, "dur": 1500,
+      "text": "Now the real challenge: the Sun. It is about one hundred forty-nine point six million kilometers away. Astronomers call that distance one astronomical unit, and it is the yardstick for the whole solar system. On the same bicycle, at twenty kilometers per hour, you would need about eight hundred fifty-three years. Pack a lunch for about thirty generations of your family, and maybe write a letter for the great-great-great-great grandchildren. Now take a jet at nine hundred kilometers per hour. You would arrive in about nineteen years. Still a long wait at the airport, even with the good coffee. And light? Light takes eight minutes and twenty seconds."
+    },
+    {
+      "id": "S05", "from": 5400, "dur": 1500,
+      "text": "Let's zoom out and place the planets. Mercury is closest to the Sun, then Venus, Earth, and Mars. These four are small, rocky, and a little bit dramatic. Beyond Mars comes the giant zone: Jupiter, Saturn, Uranus, and Neptune. In this 3D model, the distances are stretched, so you can actually see the orbits. The real numbers are much larger, and the labels tell the truth. Neptune sits about thirty astronomical units from the Sun. That is thirty times the Earth-Sun distance. And that is still only the neighborhood."
+    },
+    {
+      "id": "S06", "from": 6900, "dur": 1500,
+      "text": "Now something you probably never noticed. Right now, while you sit still, Earth is moving around the Sun at about one hundred seven thousand kilometers per hour. That is faster than a bullet. You did not buy a ticket, and you cannot get off. Welcome to the orbit. Earth also spins, so you are turning too, at about one thousand six hundred kilometers per hour at the equator. Your bicycle, meanwhile, is standing in the garage, making zero progress. Nobody complains, though. The ride is smooth, and the view is excellent."
+    },
+    {
+      "id": "S07", "from": 8400, "dur": 1500,
+      "text": "Next, light. It travels about three hundred thousand kilometers every second. That is fast enough to circle the Earth more than seven times in one second. From the Sun to Earth, it takes just over eight minutes. From the Sun to Jupiter, about forty-three minutes. To Neptune, about four hours. So when you look at the Sun, you are seeing it as it was eight minutes ago. Think about that the next time someone complains about slow Wi-Fi."
+    },
+    {
+      "id": "S08", "from": 9900, "dur": 1650,
+      "text": "Now let's compare sizes, and this time everything is to scale. Mercury and Mars are small. Earth is the solid middle child. Venus is almost Earth's twin in size, but it is a hot, cloudy oven. Then Jupiter walks into the room and takes the whole space. Jupiter is about eleven times wider than Earth, and more than one thousand Earths could fit inside it. Saturn is nearly as big, and its famous rings are mostly made of ice and rock, some pieces as small as a grain of sand. Uranus and Neptune are ice giants, cold, blue, and very quiet. Nobody asked them to be so dramatic."
+    },
+    {
+      "id": "S09", "from": 11550, "dur": 1650,
+      "text": "Let's test a real spacecraft. Voyager 1 was launched in 1977, and it moves at about seventeen kilometers per second. That is very fast. Yet at that speed, flying straight toward the Sun, it would still need about one hundred two days to cover the distance. Three months, give or take. For Voyager, that is a short trip. For a bicycle, that is a family tradition. And Voyager does not stop for snacks either. It just keeps going, quietly, sending messages back to us from very far away."
+    },
+    {
+      "id": "S10", "from": 13200, "dur": 1440,
+      "text": "So, is the solar system big or small? Both. The Sun is enormous, the planets are tiny specks, and the distances turn your commute into a very short walk. But Earth is special. It is the only planet we know of with life, and it is ours. So next time you ride to work, be proud. You are not crossing the solar system. You are doing something much more useful. Your bike is a good bike. Thanks for watching, and keep looking up."
+    }
+  ]
+}
