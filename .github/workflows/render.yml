@@ -1,0 +1,52 @@
+name: Render Solar System 3D
+
+on:
+  workflow_dispatch:
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install ffmpeg dan gTTS
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install gTTS
+
+      - name: Buat narasi (gTTS, gratis)
+        run: python scripts/make-voice.py
+
+      - name: Buat musik latar
+        run: bash scripts/make-music.sh
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Render video 1080p
+        run: |
+          mkdir -p out
+          npx remotion render src/index.ts SolarSystem out/SolarSystem-3D-1080p.mp4 \
+            --codec=h264 --crf=23 --audio-bitrate=192k \
+            --image-format=jpeg --jpeg-quality=80 \
+            --concurrency=2 --gl=angle --overwrite
+
+      - name: Upload video
+        uses: actions/upload-artifact@v4
+        with:
+          name: SolarSystem-3D-1080p
+          path: out/SolarSystem-3D-1080p.mp4
+          retention-days: 7
