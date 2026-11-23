@@ -42,7 +42,7 @@ jobs:
           npx remotion render src/index.ts SolarSystem out/SolarSystem-3D-1080p.mp4 \
             --codec=h264 --crf=23 --audio-bitrate=192k \
             --image-format=jpeg --jpeg-quality=80 \
-            --concurrency=2 --gl=angle --overwrite
+            --concurrency=2 --gl=swangle --overwrite
 
       - name: Upload video
         uses: actions/upload-artifact@v4
