@@ -9,7 +9,7 @@
     "subtitles": "node scripts/make-subtitles.mjs",
     "voice": "python3 scripts/make-voice.py",
     "music": "bash scripts/make-music.sh",
-    "render": "remotion render src/index.ts SolarSystem out/SolarSystem-3D-1080p.mp4 --codec=h264 --crf=23 --audio-bitrate=192k --image-format=jpeg --jpeg-quality=80 --concurrency=2 --gl=angle --overwrite"
+    "render": "remotion render src/index.ts SolarSystem out/SolarSystem-3D-1080p.mp4 --codec=h264 --crf=23 --audio-bitrate=192k --image-format=jpeg --jpeg-quality=80 --concurrency=2 --gl=swangle --overwrite"
   },
   "dependencies": {
     "@react-three/fiber": "8.17.10",
