@@ -7,4 +7,4 @@ Config.setConcurrency(2);
 Config.setCodec('h264');
 Config.setOverwriteOutput(true);
 // Untuk scene 3D (WebGL) di runner tanpa GPU.
-Config.setChromiumOpenGlRenderer('angle');
+Config.setChromiumOpenGlRenderer('swangle');
